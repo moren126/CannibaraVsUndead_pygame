@@ -3,7 +3,7 @@
 ![alt text](screenshots/cu_01.png "Main menu")
 
  - pojedyncze zombie kapibary będą cię unikać
- - uważaj na zachowanie przeciwników, gdy zbiorą się w hordę atakuja bez opamiętania
+ - uważaj na zachowanie przeciwników, gdy zbiorą się w hordę atakują bez opamiętania
  - zabij jak najwięcej zombie kapibar
  
 Sterowanie:
@@ -28,13 +28,13 @@ Instrukcja: wypakuj plik zip i uruchom cannibara.exe
  - single zombie capybaras will avoid you
  - watch out for the opponents' behavior, when they gather in a horde they gonna  attack without any hesitation
  - kill as many zombie capybaras as possible
- 
-Controls:
-
- - WSAD / arrows - movement, 'esc' - immediate closure of the application
- - cursor - direction of the shot
- - left mouse button - a shot
-    
+ 
+ Controls:
+ 
+ - WSAD / arrows - movement, 'esc' - immediate closure of the application
+ - cursor - direction of the shot
+ - left mouse button - a shot
+ 
 Project made using Python 3.4 and PyGame 1.9.2a0 for Python 3.4 to test steering behaviours.
 
 Catalog with executable files available here:
